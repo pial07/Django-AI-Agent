@@ -2,5 +2,6 @@ Django
 jupyter
 langchain-openai
 langgraph
+langgraph-supervisor
 python-decouple
 permit
